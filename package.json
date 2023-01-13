@@ -1,0 +1,23 @@
+{
+  "name": "nestjs-knife4j",
+  "version": "1.0.0",
+  "description": "解决body参数的问题，基于knife4j 4.0 构建",
+  "main": "./knife4j/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzplus/nestjs-knife4j.git"
+  },
+  "author": "zplus",
+  "license": "MIT",
+  "types": "./knife4j/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/mzplus/nestjs-knife4j/issues"
+  },
+  "homepage": "https://github.com/mzplus/nestjs-knife4j#readme"
+}
