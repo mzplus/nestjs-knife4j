@@ -5,7 +5,7 @@
 
 
 ```shell
-pnpm i swagger-ui-express @nestjs/swagger nest-knife4j
+pnpm i swagger-ui-express @nestjs/swagger nestjs-knife4j
 ```
 
 
